@@ -1,0 +1,13 @@
+# --- IntelliJ IDEA 相关 ---
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# 如果你使用的是 Maven 或 Gradle，也要忽略构建产物
+out/
+target/
+build/
+
+# 捕捉可能产生的崩溃日志
+java_error_in_idea_*.log
