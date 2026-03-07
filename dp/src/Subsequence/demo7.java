@@ -4,10 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-<<<<<<< HEAD
-=======
 
->>>>>>> 6bbc542439322df9494af23dab821245657f1fca
 //https://leetcode.cn/problems/longest-arithmetic-subsequence/
 public class demo7 {
     public int longestArithSeqLength(int[] nums) {
