@@ -1,4 +1,4 @@
-package binarySearch;
+package pointer.binarySearch;
 //https://leetcode.cn/problems/search-in-rotated-sorted-array/
 public class demo1 {
     class Solution {
